@@ -9,7 +9,7 @@ paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
 [params]
-    brand = "Poison"                      # name of your site - appears in the sidebar
+    brand = "Я приготовил"                      # name of your site - appears in the sidebar
     # brand_image = "/assets/logo.png"    # path to the image shown in the sidebar
     description = "Это мой сайт про еду" # Used as default meta description if not specified in front matter
     dark_mode = false                      # optional - defaults to false
