@@ -1,6 +1,6 @@
-theme = "poison"[module]
-  [module.hugoVersion]
-    min = "0.41.0"
+#theme = "poison"[module]
+#  [module.hugoVersion]
+#    min = "0.41.0"
 	
 baseURL = "/"
 languageCode = "ru-ru"
