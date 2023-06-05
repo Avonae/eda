@@ -9,10 +9,10 @@ paginate = 10
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
 [params]
-    brand = "Я приготовил"                      # name of your site - appears in the sidebar
-    # brand_image = "/assets/logo.png"    # path to the image shown in the sidebar
-    description = "Это мой сайт про еду" # Used as default meta description if not specified in front matter
-    dark_mode = false                      # optional - defaults to false
+    brand = "Я приготовил"              # name of your site - appears in the sidebar
+    brand_image = "/assets/logo.png"    # path to the image shown in the sidebar
+    description = "Это мой сайт про еду"# Used as default meta description if not specified in front matter
+    dark_mode = false                   # optional - defaults to false
     favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
     
     # NOTE: The following three params are optional and are used to create meta tags + enhance SEO.
