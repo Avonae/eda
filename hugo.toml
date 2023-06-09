@@ -1,4 +1,4 @@
-baseURL = 'http://filinkov.org/'
+baseURL = 'https://filinkov.org/'
 languageCode = 'ru-ru'
 title = 'Это сайт про еду'
 theme = 'poison'
